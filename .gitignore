@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod] # Covers .pyc, .pyo, .pyd
+
+build/
+dist/
+*.egg-info/
+*.egg
+
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store # macOS specific
+
+results_*/
+figures_*/
+
+data/
+results/
+figures/
+notebooks/
+
+*.log
+logs/
+
+debug_data_cache/
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.ipynb_checkpoints/

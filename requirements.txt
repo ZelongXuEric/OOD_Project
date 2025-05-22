@@ -1,0 +1,11 @@
+torch
+transformers>=4.24.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+accelerate
+bitsandbytes
+pandas 
+tqdm
+ipywidgets
